@@ -16,6 +16,7 @@ A beautiful, modern integration between [Taskwarrior](https://taskwarrior.org/) 
 - 🌍 **Timezone Aware** - Correctly handles UTC timestamps from Taskwarrior
 
 ## Screenshots
+![screenshot1](/assets/image.png)
 
 ### Tooltip Display
 ```
