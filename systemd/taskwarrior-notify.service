@@ -1,0 +1,6 @@
+[Unit]
+Description=Taskwarrior due task notifications
+
+[Service]
+Type=oneshot
+ExecStart=%h/.config/waybar/scripts/taskwarrior-notify.sh
